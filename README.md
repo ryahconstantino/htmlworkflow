@@ -16,7 +16,7 @@ $ npm install gulp -g
 
 Clone the repository:    
 ```sh
-$ git clone https://github.com/ryahpalma/htmlworkflow.git
+$ git clone https://github.com/ryahconstantino/htmlworkflow.git
 ```
 Enter in the folder:
 ```sh
